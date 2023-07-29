@@ -1,0 +1,26 @@
+{
+    "C:\\Users\\Rosya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\python_up": {
+        "object_type": "Directory",
+        "object_name": "Lection_8",
+        "object_size": 106316,
+        "parant_directory": "python_up"
+    },
+    "C:\\Users\\Rosya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\python_up\\Lection_8\\": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": ""
+    },
+    "C:\\Users\\Rosya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\python_up\\Lection_8\\File_manager": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 18488,
+        "parant_directory": "File_manager"
+    },
+    "C:\\Users\\Rosya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\python_up\\Lection_8\\File_manager\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-311.pyc",
+        "object_size": 237,
+        "parant_directory": "__pycache__"
+    }
+}
